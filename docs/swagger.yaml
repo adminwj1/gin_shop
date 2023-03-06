@@ -1,0 +1,12 @@
+info:
+  contact: {}
+paths:
+  /backend/rotation:
+    get:
+      responses:
+        "200":
+          description: code","message"}
+          schema:
+            type: string
+      summary: 测试接口
+swagger: "2.0"

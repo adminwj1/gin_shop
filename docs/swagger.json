@@ -1,0 +1,21 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "contact": {}
+    },
+    "paths": {
+        "/backend/rotation": {
+            "get": {
+                "summary": "测试接口",
+                "responses": {
+                    "200": {
+                        "description": "code\",\"message\"}",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
